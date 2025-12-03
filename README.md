@@ -12,6 +12,8 @@
 
 ![Alt-text](/Capture.PNG)
 
+![Alt-text](/Capture2.PNG)
+
 This project implements a **simple feedforward neural network** from scratch using **PyTorch tensors** (without relying on `torch.nn` modules for layers). 
 
 - Manual implementation of **linear layers**.
